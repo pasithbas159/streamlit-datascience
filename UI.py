@@ -7,9 +7,9 @@ import cv2
 
 keras = tf.keras
 DEMO_IMAGE = "./archive/iris-versicolour/iris-1b0b5aabd59e4c6ed1ceb54e57534d76f2f3f97e0a81800ff7ed901c35a424ab.jpg"
-MODEL = "Model/model-005-0.619048-0.975623.h5"
-IMG_HEIGHT = 224
-IMG_WIDTH = 224
+MODEL = "Model/model-040-0.961995-0.084681.h5"
+IMG_HEIGHT = 50
+IMG_WIDTH = 50
 
 st.title("Iris Classification")
 
